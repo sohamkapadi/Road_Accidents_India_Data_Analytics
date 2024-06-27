@@ -60,3 +60,6 @@ The implementation involved:
 
 The Road Accidents Dashboard provides a powerful tool for stakeholders to analyze and understand accident patterns in India. By leveraging data visualization and analytics, the dashboard aims to support informed decision-making and strategies for improving road safety and reducing accidents.
 
+## Dashboards
+![image](https://github.com/sohamkapadi/Road_Accidents_India_Data_Analytics/assets/99285197/50a13157-71c7-4c6c-943a-93166b721151)
+
