@@ -62,4 +62,6 @@ The Road Accidents Dashboard provides a powerful tool for stakeholders to analyz
 
 ## Dashboards
 ![image](https://github.com/sohamkapadi/Road_Accidents_India_Data_Analytics/assets/99285197/50a13157-71c7-4c6c-943a-93166b721151)
+![image](https://github.com/sohamkapadi/Road_Accidents_India_Data_Analytics/assets/99285197/2d6ac9de-33a1-4227-93c8-73b51e1bfc3e)
+
 
